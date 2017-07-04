@@ -1,0 +1,16 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+<h1>ModTrav Home</h1>
+
+  <p>Welcome to <em>ModularTravel</em>, a basic Django website to discover and build adventures that make you feel like a local wherever you travel.</p>
+
+<h2>Dynamic content</h2>
+
+  <p>ModTrav has the following record counts:</p>
+  <ul>
+    <li><strong>Activities:</strong> {{ num_activities }}</li>
+    <li><strong>Locations:</strong> {{ num_locations }}</li>
+  </ul>
+
+{% endblock %}
