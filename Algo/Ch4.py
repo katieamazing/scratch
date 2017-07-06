@@ -6,16 +6,14 @@ between nodes.
 dg = {} # a directed graph
 
 def is_path(graph, starting_node, ending_node):
-    if not starting_node:
-        return False
-    else:
-        visit(starting_node)
-        starting_node.visited = True
-        for n in starting_node.neighbor:
-            if n == ending_node:
+    starting_node.visited = True
+    for n in starting_node.neighbor:
+        if n == ending_node:
+            return True
+        if not n.visited:
+            if is_path(graph, neighbor, ending_node):
                 return True
-            if not n.visited:
-                is_path(graph, neighbor, ending_node)
+    return False
 
 """
 Ch. 4.4: Check Balanced
