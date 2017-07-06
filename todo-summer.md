@@ -1,12 +1,11 @@
 Stuff I Want to Learn:
-
 * Kotlin: https://teamtreehouse.com/library/kotlin-for-java-developers
 * Linux: https://linuxjourney.com/
 * Many Tools: https://www.katacoda.com/
 * Steno: going to wait on my keyboard, eta: early fall
 * Outreachy: apply in September, if not employed
 
-* Stuff I Want to Do:
+Stuff I Want to Do:
 * Go back to my personal kanban/bento box to-do list
 * Continue keeping a daily log of todos digitally
 * Timebox my daily work on jobs stuff (Maybe 2 hours?)
@@ -14,7 +13,7 @@ Stuff I Want to Learn:
 * Keep to reading books, at least 2/month
 * See RC people at least 2/month
 
-* Project-Based tasks (remove as completed):
+Project-Based tasks (remove as completed):
 * Finish Python SDL
 * Finish Tree-flavored
 * Writeup Breakout blog post(s)
