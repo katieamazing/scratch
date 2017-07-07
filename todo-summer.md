@@ -37,7 +37,6 @@ Monday 7-3
 Tuesday 7-4
 * [X] Get a primer from JN on bit manipulation
 * [X] Find out some stuff about Reservoir Sampling
-* [ ] Tree-flavored
 * [ ] Work on an algorithm from Heneli's study guide
 * [X] Finish up Céu blog post, start editing process
   * Update: got it edited, sent it off to Francisco
@@ -46,9 +45,16 @@ Tuesday 7-4
 
 Wednesday 7-5
 * [ ] Implement Reservoir Sampling
-* [ ] Tree-flavored
-* [ ] Work on all the things from Heneli's study guide
+* [X] Work on things from Heneli's study guide
   * did some trees/graphs
+* [X] Watch this Intro to Algo about Trees: https://www.youtube.com/watch?v=9Jry5-82I68
+
+Thursday 7-6
+* [X] Implement Reservoir Sampling
+
+Friday 7-8
+* [ ] Tree-flavored
+* [X] Study this week's Interview Cake problem (Merge Sorted Arrays)
 
 
 * social stuff to schedule:
