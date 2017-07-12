@@ -9,14 +9,14 @@ def merge_lists1(a, b):
     Total time is O(n**2).
     """
     output = []
-    while a != []:
+    while a:
         if a[0] < b[0]:
             output.append(a[0])
             del a[0]
         else:
             output.append(b[0])
             del b[0]
-    while b != []:
+    while b:
         output.append(b[0])
         del b[0]
 
@@ -32,12 +32,12 @@ def merge_lists2(a, b):
     Think this is O(2n) (O(n))
     """
     output = []
-    while a != []:
+    while a:
         if a[-1] > b[-1]:
             output.append(a.pop())
         else:
             output.append(b.pop())
-    while b != []:
+    while b:
         output.append(b.pop())
     output.reverse()
     return output
@@ -76,5 +76,5 @@ def merge_lists4(a, b):
     return output
 
 
-print(merge_lists(my_list, alices_list))
+print(merge_lists2(my_list, alices_list))
 # prints [1, 3, 4, 5, 6, 8, 10, 11, 12, 14, 15, 19]

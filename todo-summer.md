@@ -56,6 +56,29 @@ Friday 7-8
 * [ ] Tree-flavored
 * [X] Study this week's Interview Cake problem (Merge Sorted Arrays)
 
+Weekend:
+* [ ] Tree-flavored
+* [ ] Review Francisco's PR
+* I spent the weekend quitting sugar and playing Slime Rancher
+
+Monday 7-10:
+* [ ] Work on things from Heneli's study guide
+* [X] Sign up for interviewing.io
+
+Tuesday 7-11:
+* [X] Familiarize myself with interviwing.io's interface
+* [X] Do some Hackerrank problems
+* [X] Work on jobs stuff
+  * Set up a Google Doc to stay organized, started working with RC Jobs team on two applications, got an Angel.io account set up and sniffed around a job listing
+
+Wednesday 7-12:
+* [ ] Study this week's Interview Cake problem
+* [ ] Get back into KOLC - make a list of assets/todos to complete prior to deployment
+* [ ] Take care of pending Jobs items
+
+Thursday 7-13:
+
+
 
 * social stuff to schedule:
   * meat eating date with laura
