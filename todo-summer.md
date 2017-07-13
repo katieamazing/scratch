@@ -83,7 +83,6 @@ Thursday 7-13:
 * [ ] Take care of pending Jobs items
 
 
-
 * social stuff to schedule:
   * meat eating date with laura
   * ikea-venture with veronica

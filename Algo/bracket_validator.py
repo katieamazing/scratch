@@ -4,10 +4,8 @@ def validate(s):
     Naive solution.
     O(n) for the loop looking at each character
     O(1) for each set lookup in first conditional of the loop
-    O(1) for equality checking
     O(1) for each dict lookup
-    O(1) for each append
-    O(1) for each pop
+    O(1) for each append/pop
 
     Final time complexity: O(n)
     Final space complexity: O(n) as a very worst-case scenario to hold the list

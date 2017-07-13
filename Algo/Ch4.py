@@ -42,15 +42,3 @@ def check_balanced(root):
         lh, lb = check_balanced(root.left)
         rh, rb = check_balanced(root.right)
         return (max(lh, rh) + 1, False)
-
-"""
-    go to deepest left leaf
-
-    record the depth
-
-    go down to that depth on other paths
-
-    check each leaf for either
-        having a parent one depth up
-        or having child/children max one depth down
-"""
