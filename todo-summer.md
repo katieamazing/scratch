@@ -64,6 +64,7 @@ Weekend:
 Monday 7-10:
 * [ ] Work on things from Heneli's study guide
 * [X] Sign up for interviewing.io
+* [X] Social: hanging out with nicole
 
 Tuesday 7-11:
 * [X] Familiarize myself with interviwing.io's interface
@@ -72,11 +73,14 @@ Tuesday 7-11:
   * Set up a Google Doc to stay organized, started working with RC Jobs team on two applications, got an Angel.io account set up and sniffed around a job listing
 
 Wednesday 7-12:
-* [ ] Study this week's Interview Cake problem
-* [ ] Get back into KOLC - make a list of assets/todos to complete prior to deployment
 * [ ] Take care of pending Jobs items
+  * Supposedly asked RC for a technical interview on Friday
+* [ ] Did really nothing. Uggghhh.
 
 Thursday 7-13:
+* [X] Study this week's Interview Cake problem
+* [ ] Get back into KOLC - make a list of assets/todos to complete prior to deployment
+* [ ] Take care of pending Jobs items
 
 
 
@@ -84,5 +88,4 @@ Thursday 7-13:
   * meat eating date with laura
   * ikea-venture with veronica
   * crafty day with veronica
-  * hanging out with nicole
   * scheduling a monthiversary party for RCers still here at the end of July
