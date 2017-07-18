@@ -79,8 +79,21 @@ Wednesday 7-12:
 
 Thursday 7-13:
 * [X] Study this week's Interview Cake problem
+* [X] Take care of pending Jobs items
+  * Did some research, picked out some jobs
+* Tried out CodeFights, seems fun, will continue the interview prep curriculum
+
+Friday 7-14:
 * [ ] Get back into KOLC - make a list of assets/todos to complete prior to deployment
-* [ ] Take care of pending Jobs items
+* [ ] Write 2x cover letters and apply to the jobs I saw yesterday
+* Instead, had existential dread and wallowed in depression. Fun!
+
+Weekend:
+* Did nothing; had John and Dan in town. Still wallowing.
+
+Monday 7-17:
+* [X] Wrote a cover letter and applied to Pymetrics Backend Engineer job
+* [X] Did some CodeFights stuff (rotate a matrix, submatrices)
 
 
 * social stuff to schedule:
