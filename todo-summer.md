@@ -20,6 +20,7 @@ Project-Based tasks (remove as completed):
 * Finish/polish KOLC
 * Finish ModTrav
 * Come up with a project that could use RabbitMQ/GRPC
+* Make a SWN webapp that tracks user-added planets, supports note taking, NPC and character sheets
 
 **EVERY DAY DO >=3:**
 * PP: Portfolio Project: Make progress on at least 1 ongoing portfolio project
@@ -95,6 +96,14 @@ Monday 7-17:
 * [X] Wrote a cover letter and applied to Pymetrics Backend Engineer job
 * [X] Did some CodeFights stuff (rotate a matrix, submatrices)
 
+Tuesday 7-18:
+* [X] Replied to Leah and Nancy re: interview prep
+* [X] Applied to Rust Lang project thing, hearing back Aug 1: https://blog.rust-lang.org/2017/06/27/Increasing-Rusts-Reach.html
+* [X] Applied to PyLadies NYC committee thing
+
+Wednesday 7-19:
+* [X] C-grade job on studying this week's Interview Cake problem on BSTs
+* [ ] Social: hang out with Elias online
 
 * social stuff to schedule:
   * meat eating date with laura
