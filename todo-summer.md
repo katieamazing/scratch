@@ -103,7 +103,13 @@ Tuesday 7-18:
 
 Wednesday 7-19:
 * [X] C-grade job on studying this week's Interview Cake problem on BSTs
-* [ ] Social: hang out with Elias online
+* [X] Social: hang out with Elias online
+  * bonus: also Adam and Mike and Nasreen!
+
+Thursday 7-10:
+* [X] pymetrics coding challenge
+  * Took forever! Did 5 coding challenges, the last two were very tough. I did a pretty iffy job.
+* [X] Went over Nancy's suggestions to my resume; even made a few of her changes
 
 * social stuff to schedule:
   * meat eating date with laura
