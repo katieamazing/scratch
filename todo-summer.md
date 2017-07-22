@@ -109,7 +109,12 @@ Wednesday 7-19:
 Thursday 7-10:
 * [X] pymetrics coding challenge
   * Took forever! Did 5 coding challenges, the last two were very tough. I did a pretty iffy job.
+  * Heard back that I passed!?!? What is life. Onto the phone interview.
 * [X] Went over Nancy's suggestions to my resume; even made a few of her changes
+
+Friday 7-11:
+* [X] Apply to 3x more jobs without crying
+* [X] Reply to my emails re: pymetrics and mock interviews next week
 
 * social stuff to schedule:
   * meat eating date with laura
