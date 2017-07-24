@@ -116,6 +116,15 @@ Friday 7-11:
 * [X] Apply to 3x more jobs without crying
 * [X] Reply to my emails re: pymetrics and mock interviews next week
 
+Weekend:
+* [X] Implement Fenwick trees
+* [X] Tech demo for LD game
+
+Monday:
+* [ ] Pymetrics phone interview
+* [ ] Reply to Casey re: mock interview scheduling
+
+
 * social stuff to schedule:
   * meat eating date with laura
   * ikea-venture with veronica
