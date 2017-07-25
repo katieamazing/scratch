@@ -1,0 +1,15 @@
+{% extends 'base_generic.html' %}
+
+{% block content %}
+  <form method="get">
+    {{ filter.form.as_p }}
+    <button type="submit">Search</button>
+  </form>
+  <ul>
+  {% for activity in filter.qs %}
+    <li>
+      <a href="{{ activity.get_absolute_url }}">{{ activity.title }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+{% endblock %}

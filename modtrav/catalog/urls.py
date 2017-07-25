@@ -15,5 +15,6 @@ urlpatterns = [
     url(r'^locations/$', views.LocationListView.as_view(), name='locations'),
     url(r'^location/create$', views.LocationCreate.as_view(), name='location_create'),
     url(r'^location/(?P<pk>\d+)/delete/$', views.LocationDelete.as_view(), name='location_delete'),
+    url(r'^search/$', views.search, name='search'),
 
 ]

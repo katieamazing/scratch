@@ -121,9 +121,18 @@ Weekend:
 * [X] Tech demo for LD game
 
 Monday:
-* [ ] Pymetrics phone interview
-* [ ] Reply to Casey re: mock interview scheduling
+* [X] Pymetrics phone interview
+* [X] Reply to Casey re: mock interview scheduling
 
+Tuesday:
+* [X] Added filtered queries to ModTrav
+* [ ] Work on a blog post, somehow
+
+* [ ] Add Markdown rendering to ModTrav
+
+* [ ] Add image hosting to ModTrav
+
+* [ ] Add GoogleMaps integration to ModTrav
 
 * social stuff to schedule:
   * meat eating date with laura

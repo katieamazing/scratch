@@ -1,10 +1,14 @@
 from django.shortcuts import render
 
+from django.contrib.auth.models import User
+
 from django.views import generic
 from django.views.generic.edit import CreateView, UpdateView, DeleteView
 from django.urls import reverse_lazy
 
 from .models import Tag, Location, Activity
+
+from .filters import ActivityFilter
 
 # Create your views here.
 def index(request):
@@ -23,6 +27,11 @@ def index(request):
             'num_locations':num_locations,
         },
     )
+
+def search(request):
+    activity_list = Activity.objects.all()
+    activity_filter = ActivityFilter(request.GET, queryset=activity_list)
+    return render(request, 'search/activities.html', {'filter': activity_filter})
 
 class ActivityListView(generic.ListView):
     model = Activity
