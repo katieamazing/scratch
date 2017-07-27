@@ -4,7 +4,10 @@
   <h1>Title: {{ activity.title }}</h1>
   <p>Added by: {{ activity.author }}</p>
   <br></br>
+  <p>DEBUG</p>
   <p><strong>Summary:</strong> {{ activity.summary }}</p>
+  <p><strong>HTML Summary:</strong> {{ activity.summary_html|safe}} </p>
+<br>
   <p><strong>Cost:</strong> {{ activity.cost }}</p>
   <p><strong>Duration:</strong> {{ activity.duration }}</p>
   <p><strong>Tag(s):</strong> {% for tag in activity.tag.all %} {{ tag }}{% if not forloop.last %}, {% endif %}{% endfor %}</p>
@@ -12,6 +15,6 @@
 
 
   <div style="margin-left:20px;margin-top:20px">
-    <p> Hello world, I could be some markdown </p>
+    {{ activity.summary_html|safe}}
   </div>
 {% endblock %}

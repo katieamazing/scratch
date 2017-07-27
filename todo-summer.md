@@ -128,11 +128,22 @@ Tuesday:
 * [X] Added filtered queries to ModTrav
 * [ ] Work on a blog post, somehow
 
+Wednesday:
+* [X] Apply to some more jobs (x3, woo!)
+* [ ] This week's Interview Cake problem on Graphs
 * [ ] Add Markdown rendering to ModTrav
+* [ ] Keep working on tech demo for LD39 - text entry? Backend storage? Generative SVG?
 
-* [ ] Add image hosting to ModTrav
-
+Thursday:
 * [ ] Add GoogleMaps integration to ModTrav
+* [ ] Add image hosting to ModTrav
+* [ ] RC Job fair
+
+Friday:
+* [ ] Pymetrics API pairing interview w/ Dennis
+* [ ] Do more design/brainstorming for LD39
+
+
 
 * social stuff to schedule:
   * meat eating date with laura

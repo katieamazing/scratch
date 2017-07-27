@@ -42,11 +42,11 @@ class ActivityDetailView(generic.DetailView):
 #TODO make all create/delete/update things permissions required
 class ActivityCreate(CreateView):
     model = Activity
-    fields = '__all__'
+    fields = ['title', 'summary', 'cost', 'duration', 'author', 'location', 'tag']
 
 class ActivityUpdate(UpdateView):
     model = Activity
-    fields = '__all__'
+    fields = ['title', 'summary', 'cost', 'duration', 'author', 'location', 'tag']
 
 class ActivityDelete(DeleteView):
     model = Activity
