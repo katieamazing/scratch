@@ -144,7 +144,7 @@ Friday:
 * [ ] Do more design/brainstorming for LD39
 
 
-
+https://hackpad.com/Interview-Prep-Fridays-8vclIp6DCYE
 * social stuff to schedule:
   * meat eating date with laura
   * ikea-venture with veronica
