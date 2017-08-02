@@ -130,7 +130,7 @@ Tuesday:
 
 Wednesday:
 * [X] Apply to some more jobs (x3, woo!)
-* [ ] This week's Interview Cake problem on Graphs
+
 * [ ] Add Markdown rendering to ModTrav
 * [ ] Keep working on tech demo for LD39 - text entry? Backend storage? Generative SVG?
 
@@ -140,9 +140,34 @@ Thursday:
 * [ ] RC Job fair
 
 Friday:
-* [ ] Pymetrics API pairing interview w/ Dennis
-* [ ] Do more design/brainstorming for LD39
+* [X] Pymetrics pairing interview w/ Dennis
+* [X] Do more design/brainstorming for LD39
 
+Weekend:
+* [X] Ludum Dare! Wrote a Lua backend for the vanilla JavaScript game. Lots of art and JS.
+
+Monday:
+* [X] Finish Ludum Dare
+
+Tuesday:
+* [X] RC remote hangout, organized an interview prep session
+* [ ] Last week's Interview Cake problem on Graphs
+* [X] Linked lists
+
+Wednesday:
+* [X] On-site with Pymetrics
+  * I thought it went 60% well. My nerves were really bad leading up to it, but better during it. Still got flustered whiteboarding!
+
+Thursday:
+* [ ] Apply to some jobs
+* [ ] RC Job fair
+* [ ] Prep some assets for weekend coding on SSU post-jam edition
+* [ ] Picography???
+
+Friday:
+* [ ] RC Remote Interview Prep
+
+Add a review on glassdoor about Pymetrics interview process
 
 https://hackpad.com/Interview-Prep-Fridays-8vclIp6DCYE
 * social stuff to schedule:
