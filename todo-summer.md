@@ -130,14 +130,13 @@ Tuesday:
 
 Wednesday:
 * [X] Apply to some more jobs (x3, woo!)
-
-* [ ] Add Markdown rendering to ModTrav
+* [X] Add Markdown rendering to ModTrav
 * [ ] Keep working on tech demo for LD39 - text entry? Backend storage? Generative SVG?
 
 Thursday:
 * [ ] Add GoogleMaps integration to ModTrav
 * [ ] Add image hosting to ModTrav
-* [ ] RC Job fair
+* [X] RC Job fair
 
 Friday:
 * [X] Pymetrics pairing interview w/ Dennis
@@ -151,18 +150,20 @@ Monday:
 
 Tuesday:
 * [X] RC remote hangout, organized an interview prep session
-* [ ] Last week's Interview Cake problem on Graphs
 * [X] Linked lists
 
 Wednesday:
 * [X] On-site with Pymetrics
   * I thought it went 60% well. My nerves were really bad leading up to it, but better during it. Still got flustered whiteboarding!
+* [X] Picography
+  * tried a bit, can't figure out how to build/install. Not sure what my audience/usecase is here.
 
 Thursday:
-* [ ] Apply to some jobs
+* [X] Apply to some jobs
 * [ ] RC Job fair
 * [ ] Prep some assets for weekend coding on SSU post-jam edition
-* [ ] Picography???
+* [ ] Last week's Interview Cake problem on Graphs
+
 
 Friday:
 * [ ] RC Remote Interview Prep
