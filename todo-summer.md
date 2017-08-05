@@ -161,14 +161,40 @@ Wednesday:
 Thursday:
 * [X] Apply to some jobs
 * [ ] RC Job fair
-* [ ] Prep some assets for weekend coding on SSU post-jam edition
-* [ ] Last week's Interview Cake problem on Graphs
-
+* [X] Tinker with SSU's map generation
 
 Friday:
-* [ ] RC Remote Interview Prep
+* [X] RC Remote Interview Prep
+* [ ] Prep some assets for weekend coding on SSU post-jam edition
+
+Weekend:
+* [ ] SSU-post-jam version
+* [ ] Study trees for Monday's RC Remote Interview Prep
+
+Monday:
+* [ ] RC Remote Interview Prep (focus: trees)
+
+Tuesday:
+* [ ] Study graphs for Friday's RC Remote Interview Prep
+
+Wednesday:
+* [ ] Tech Inclusion Job fair
+* [ ] Elm beginners meetup
+
+Thursday:
+* [ ] WWC Algo meetup
+* [ ] Study graphs for Friday's RC Remote Interview Prep
+
+Friday:
+* [ ] RC Remote Interview Prep (focus: graphs)
 
 Add a review on glassdoor about Pymetrics interview process
+
+Bitwise Problems:
+hamming distance
+number of set 1's
+reversing bits/bit reversal
+odd parity
 
 https://hackpad.com/Interview-Prep-Fridays-8vclIp6DCYE
 * social stuff to schedule:
