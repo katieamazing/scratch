@@ -178,6 +178,9 @@ Monday:
 
 Tuesday:
 * [ ] Study trees for Friday's RC Remote Interview Prep
+* [X] Work on pybreakout
+* [X] Work on SwiftieBot
+* [ ] Prep for job fair tomorrow - who has roles for you, who you want to talk to
 
 Wednesday:
 * [ ] Tech Inclusion Job fair

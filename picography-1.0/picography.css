@@ -1,0 +1,154 @@
+/* Polygon defaults */
+a polygon:hover { fill: #ffffff }
+polygon.residence { stroke: grey }
+polygon { stroke: grey; }
+
+/* Age */
+.age:nth-child(even) polygon { fill: mintcream; }
+.age:nth-child(odd) polygon { fill: lavender; }
+
+
+/* Text Play */
+.vert {
+    glyph-orientation-vertical: 270;
+    writing-mode: tb-rl;
+}
+
+.left {text-anchor: start;}
+.middle {text-anchor: middle;}
+.right {text-anchor: end;}
+
+.axis_label { font-size: 1.5em }
+
+.legend {  border-style: solid;
+           stroke: black ;
+           border-width: 10px ;
+           fill: white;
+       }
+
+.scale {
+    fill: lavender;
+}
+
+text {
+    font-size: 0.7em;
+    fill: black;
+}
+
+.yeartick {
+    font-size: 1.2em;
+}
+
+.age {
+    font-size: 1.2em;
+}
+
+.event {
+    font-size: 1.0em;
+}
+
+.metadata {
+   font-size: 1.5em;
+   fill: black;
+}
+
+
+/* Residence */
+.residence text { fill: black; }
+
+#pattern1 rect { stroke: none; fill: #eeeeee }
+#pattern2 rect { stroke: none; fill: #eeeeee }
+#pattern3 rect { stroke: none; fill: #eeeeee }
+#pattern4 rect { stroke: none; fill: #eeeeee }
+#pattern5 rect { stroke: none; fill: #eeeeee }
+
+#pattern1 { stroke: #bbbbbb; }
+#pattern2 { fill: #dddddd; }
+#pattern3 { stroke: #bbbbbb; }
+#pattern4 { stroke: #bbbbbb; }
+#pattern5 { stroke: #bbbbbb; }
+
+.pattern1 { fill: url(#pattern1) }
+.pattern2 { fill: url(#pattern2) }
+.pattern3 { fill: url(#pattern3) }
+.pattern4 { fill: url(#pattern4) }
+.pattern5 { fill: url(#pattern5) }
+
+/* Grays */
+.gray1  { fill: #f5f5f5 }
+.gray2  { fill: #eaeaea }
+.gray3  { fill: #dfdfdf }
+.gray4  { fill: #d5d5d5 }
+.gray5  { fill: #cacaca }
+.gray6  { fill: #bfbfbf }
+.gray7  { fill: #b5b5b5 }
+.gray8  { fill: #aaaaaa }
+.gray9  { fill: #9f9f9f }
+.gray10 { fill: #959595 }
+.gray11 { fill: #8a8a8a }
+.gray12 { fill: #808080 }
+
+/* Colour Classes*/
+polygon.love1,
+polygon.play1,
+polygon.friend1,
+polygon.work1,
+polygon.project1 { fill-opacity: 1.0; }
+
+polygon.love3,
+polygon.play3,
+polygon.friend3,
+polygon.work3,
+polygon.project3 { stroke-width: 2px; stroke: black; }
+
+polygon.project2 text { fill: floralwhite; }
+polygon.project3 text { fill: floralwhite; }
+polygon.play2 text { fill: floralwhite; }
+polygon.play3 text { fill: floralwhite; }
+
+/* friends: oranges */
+polygon.friend1 { fill: #e38a48; }
+polygon.friend2 { fill: #d46a1c; }
+polygon.friend3 { fill: #af510b; }
+
+polygon.love0 {
+   fill-opacity: 0.1;
+   fill: red;
+}
+/* love: reds */
+polygon.love1 { fill: #dd4651 }
+polygon.love2 { fill: #ce1b28 }
+polygon.love3 { fill: #8d000a }
+.love3 text { fill: white }
+
+/* play: blues */
+polygon.play1 { fill: #50ada3 }
+polygon.play2 { fill: #2d8d83 }
+polygon.play3 { fill: #076d62 }
+
+/* school: yellow-to-brown */
+polygon.school1 { fill: #e3e348; }
+polygon.school2 { fill: #d4d41c; }
+polygon.school3 { fill: #afaf0b; }
+polygon.school4 { fill: #919100; }
+polygon.school5 { fill: #6b6b00; }
+
+/* work: greens */
+polygon.work1 { fill: #4dbc3c }
+polygon.work2 { fill: #55a868 }
+polygon.work3 { fill: #0c5900 }
+
+/* project: aquamarines */
+polygon.project1 { fill: #118377 }
+polygon.project2 { fill: #118377 }
+polygon.project3 { fill: #118377 }
+
+/* event: purples */
+.event1 { fill: #9b59b6 }
+.event2 { fill: #3498db }
+.event3 { fill: #95a5a6 }
+.event4 { fill: #e74c3c }
+.event5 { fill: #34495e }
+.event6 { fill: #2ecc71 }
+.event7 { fill: #cb416b }
+.event8 { fill: #ffb07c } 
