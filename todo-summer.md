@@ -169,13 +169,15 @@ Friday:
 
 Weekend:
 * [ ] SSU-post-jam version
-* [ ] Study trees for Monday's RC Remote Interview Prep
+* [X] Study trees for Monday's RC Remote Interview Prep
+* [X] Mock Interview with Casey @ RC
 
 Monday:
-* [ ] RC Remote Interview Prep (focus: trees)
+* [ ] RC Remote Interview Prep
+* [ ] Algo practice
 
 Tuesday:
-* [ ] Study graphs for Friday's RC Remote Interview Prep
+* [ ] Study trees for Friday's RC Remote Interview Prep
 
 Wednesday:
 * [ ] Tech Inclusion Job fair
@@ -186,7 +188,7 @@ Thursday:
 * [ ] Study graphs for Friday's RC Remote Interview Prep
 
 Friday:
-* [ ] RC Remote Interview Prep (focus: graphs)
+* [ ] RC Remote Interview Prep (focus: trees)
 
 Add a review on glassdoor about Pymetrics interview process
 
