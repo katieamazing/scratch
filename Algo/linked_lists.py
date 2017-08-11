@@ -34,3 +34,12 @@
         else:
             self.next.append(new_value)
             return self
+
+def merge_linked_lists(a, b):
+    c = ListNode(a.value + b.value)
+    a_cursor = a.next
+    b_cursor = b.next
+
+
+    while a_cursor != None or b_cursor != None:
+        c.append(a_cursor.value + b_cursor.value)

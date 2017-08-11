@@ -175,25 +175,30 @@ Weekend:
 Monday:
 * [ ] RC Remote Interview Prep
 * [ ] Algo practice
+* [X] Add a review on glassdoor about Pymetrics interview process
 
 Tuesday:
 * [ ] Study trees for Friday's RC Remote Interview Prep
 * [X] Work on pybreakout
 * [X] Work on SwiftieBot
-* [ ] Prep for job fair tomorrow - who has roles for you, who you want to talk to
+* [X] Pair with Anja on Picography
+* [X] Prep for job fair tomorrow - who has roles for you, who you want to talk to
+* [X] Move along a blog post
+* Wow got a lot done today, probably motivated by procrastiguilt after wallowing all day yesterday.
 
 Wednesday:
-* [ ] Tech Inclusion Job fair
-* [ ] Elm beginners meetup
+* [X] Tech Inclusion Job fair
+* [X] Work on pybreakout
 
 Thursday:
-* [ ] WWC Algo meetup
-* [ ] Study graphs for Friday's RC Remote Interview Prep
+* [ ] Study trees for Friday's RC Remote Interview Prep
 
 Friday:
 * [ ] RC Remote Interview Prep (focus: trees)
 
-Add a review on glassdoor about Pymetrics interview process
+* [ ] Figure out how to add a MORE (...) pagination/cut to truncate your blog post directory
+
+* [ ] Work on a music generator; tweet and make a "databass" joke
 
 Bitwise Problems:
 hamming distance
