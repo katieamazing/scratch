@@ -12,8 +12,10 @@ date: TODO
   -no residents
   -less oversight/faciliator support (I was continually surprised by the disinterest of the staff)
   -larger groups/less batch cohesion
-  -gender balance issues
+  -gender balance issues (too much representation of male sr/female jr, which I think leads to too many male-led activities. Far too many all-male presentation nights.)
 
 -goal for this post is to provide a reflection on what RC was in the spring of 2017, with the caveat that the culture changes quickly with each batch.
 
 -post a link to or a cut for the whole To-Do file.
+
+-all the stuff I read, and a quick overview of what I did
