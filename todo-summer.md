@@ -195,6 +195,37 @@ Thursday:
 
 Friday:
 * [ ] RC Remote Interview Prep (focus: trees)
+* [X] Work on TSRewrite, work on PussyBot
+
+Weekend:
+* [X] Work on Sip Sip Universe; add fall-through state
+* [X] Work on TSRewrite, work on PussyBot
+
+Monday:
+* [X] Work on Sip Sip Universe; add terrain collisions
+* [X] Check if Binary Tree is symmetric
+* [X] Launched TSRewrite and PussyBot
+* [X] Write up a blog post about the bots
+
+Tuesday:
+* [X] Wallowing and ennui
+
+Wednesday:
+* [X] SSU; added description-builder, got state working between under/over worlds
+
+Thursday:
+* [ ] Apply to some jobs
+* [ ] Games Night at RC
+
+Friday:
+* [ ] Submit SSU to Sofa Jam
+* [ ] Finish up SSU blog post and ship it
+
+Thursday:
+* [ ] Demo Day at RC (bring the gaaeemmes)
+
+Weekend:
+* [ ] Dinner at David's
 
 * [ ] Figure out how to add a MORE (...) pagination/cut to truncate your blog post directory
 
