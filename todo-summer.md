@@ -214,18 +214,24 @@ Wednesday:
 * [X] SSU; added description-builder, got state working between under/over worlds
 
 Thursday:
-* [ ] Apply to some jobs
-* [ ] Games Night at RC
+* [X] Apply to some jobs (x3, woo!)
+* [X] Games Night at RC
 
 Friday:
 * [ ] Submit SSU to Sofa Jam
 * [ ] Finish up SSU blog post and ship it
+* [X] Instead, nursed a hangover and packed
+
+Weekend (through Tuesday):
+* [X] Eclipse, Kentucky, #JREclipse celebrations
+
+Wednesday:
+* [X] Work on breakout stuff again
+* [X] SSU?
 
 Thursday:
 * [ ] Demo Day at RC (bring the gaaeemmes)
 
-Weekend:
-* [ ] Dinner at David's
 
 * [ ] Figure out how to add a MORE (...) pagination/cut to truncate your blog post directory
 
@@ -242,4 +248,3 @@ https://hackpad.com/Interview-Prep-Fridays-8vclIp6DCYE
   * meat eating date with laura
   * ikea-venture with veronica
   * crafty day with veronica
-  * scheduling a monthiversary party for RCers still here at the end of July
