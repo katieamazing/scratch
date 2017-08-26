@@ -230,7 +230,23 @@ Wednesday:
 * [X] SSU?
 
 Thursday:
+* [X] SSU
+* [X] Work on breakout stuff
+* [X] Add a bit to TSRewrite bot
+* [X] Work on GameGif Bot a tiny bit
 * [ ] Demo Day at RC (bring the gaaeemmes)
+
+Friday:
+* [ ] Post up the twitter bot post
+* [ ] SSU
+* [ ] Work on breakout stuff
+* [ ] Work on GameGif Bot
+
+Weekend:
+* [ ] Digital archaeology weekend:
+  * unearth and repost old LD games, Diver, Mousetraps, Viva, Extinction
+  * get domain under my purview again
+* [ ] Add monsters to SSU, fix some existing bugs with level xfer viewport
 
 
 * [ ] Figure out how to add a MORE (...) pagination/cut to truncate your blog post directory

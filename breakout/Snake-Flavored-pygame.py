@@ -1,8 +1,14 @@
-import sys, pygame, math, random
-pygame.init()
+"""
+Implementation of BREAKOUT in Python with Pygame.
+More about this code here:
+Katie Amazing, August 2017
+"""
 
-size = width, height = 600, 400
-screen = pygame.display.set_mode(size)
+import sys
+import pygame
+import math
+import random
+
 
 class Collision(object):
     def __init__(self, ball):
@@ -26,6 +32,7 @@ class Collision(object):
 
     def draw(self):
         pass
+
 
 class Ball(object):
     def __init__(self, x, y):
@@ -58,20 +65,50 @@ class Ball(object):
          self.launched = False
 
     def update(self):
-         # move ball
          self.x += self.velx
          self.y += self.vely
-         # edge collisions
+
          if self.x < 0 or self.x > width:
              self.velx *= -1
          if self.y < 0:
              self.vely *= -1
          if self.y > height:
-             #lose a point, reset ball
              self.reset()
 
     def draw(self):
          pygame.draw.circle(screen, (255, 255, 255), (int(self.x), int(self.y)), self.r)
+
+
+class Paddle(object):
+    def __init__(self, x, velx):
+        self.x = x
+        self.y = height - 4
+        self.width = 80
+        self.height = 4
+        self.velx = velx
+        self.speed = 4
+
+    def keypress(self, key):
+        if key == pygame.K_LEFT and self.velx > -self.speed:
+            self.velx -= 1
+        elif key == pygame.K_RIGHT and self.velx < self.speed:
+            self.velx += 1
+
+    def on_collide(self):
+        pass
+
+    def update(self):
+        self.velx *= 0.95               # Apply friction
+        self.x += self.velx
+
+        if self.x < 0:                   # Lock paddle to screen
+            self.x = 0
+        elif self.x > width - 80:
+            self.x = width - 80
+
+    def draw(self):
+        pygame.draw.rect(screen, (255,255,255), [self.x, self.y, self.width, self.height])
+
 
 class Brick(object):
     def __init__(self, x, y, sprite, collision_handler, bubbles):
@@ -93,13 +130,14 @@ class Brick(object):
         if not self.hit:
             screen.blit(self.sprite, pygame.Rect(self.x, self.y, self.width, self.height))
 
+
 class Bricks(object):
     def __init__(self, rows, cols, sprite_name, collision_handler, bubbles):
         self.sprite = pygame.image.load(sprite_name)
         self.grid = self.initlist(rows, cols, collision_handler, bubbles)
 
     def initlist(self, rows, cols, collision_handler, bubbles):
-        """returns a list of lists of bricks"""
+        """Returns a list of lists of bricks."""
         bricklist = []
         for row in range(0,rows):
             bricklist.append([])
@@ -126,37 +164,6 @@ class Bricks(object):
             for brick in row:
                 brick.draw()
 
-class Paddle(object):
-    def __init__(self, x, velx):
-        self.x = x
-        self.y = height - 4
-        self.width = 80
-        self.height = 4
-        self.velx = velx
-        self.speed = 4
-
-    def keypress(self, key):
-        if key == pygame.K_LEFT and self.velx > -self.speed:
-            self.velx -= 1
-        elif key == pygame.K_RIGHT and self.velx < self.speed:
-            self.velx += 1
-
-    def on_collide(self):
-        pass
-
-    def update(self):
-        # apply friction
-        self.velx *= 0.95
-        # move paddle
-        self.x += self.velx
-        # lock paddle to screen
-        if self.x < 0:
-            self.x = 0
-        elif self.x > width - 80:
-            self.x = width - 80
-
-    def draw(self):
-        pygame.draw.rect(screen, (255,255,255), [self.x, self.y, self.width, self.height])
 
 class Particles(object):
     def __init__(self):
@@ -177,6 +184,7 @@ class Particles(object):
     def draw(self):
         for bubble in self.particles:
             bubble.draw()
+
 
 class Particle(object):
     def __init__(self, x, y):
@@ -206,6 +214,7 @@ class Particle(object):
     def draw(self):
         screen.blit(self.sprite, pygame.Rect(self.x, self.y, self.scale, self.scale))
 
+
 class Level(object):
     def __init__(self, rows, cols, bricksprite):
         self.rows = rows
@@ -225,11 +234,10 @@ class Level(object):
             component.draw()
 
     def play(self):
-        rows, cols = self.rows, self.cols
         ball = Ball(width/2, height-6)
         collision_handler = Collision(ball)
         bubbles = Particles()
-        bricks = Bricks(rows, cols, self.bricksprite, collision_handler, bubbles)
+        bricks = Bricks(self.rows, self.cols, self.bricksprite, collision_handler, bubbles)
         paddle = Paddle(width/2, 0)
         collision_handler.add(paddle)
         self.add(collision_handler)
@@ -241,13 +249,10 @@ class Level(object):
         bg = pygame.Surface((width, height))
         bg.blit(bgimg, (0, 0))
         pygame.key.set_repeat(30, 30)
-        cheating = False
-        while not bricks.done() and not cheating:
+        while not bricks.done():
             for event in pygame.event.get():
                 if event.type == pygame.QUIT:
                     sys.exit()
-                if event.type == pygame.KEYDOWN and event.key == pygame.K_z:
-                    cheating = True
                 if event.type == pygame.KEYDOWN:
                     paddle.keypress(event.key)
                 if event.type == pygame.MOUSEBUTTONUP:
@@ -257,6 +262,7 @@ class Level(object):
             self.update()
             self.draw()
             pygame.display.flip()
+
 
 class WinScreen(object):
     def __init__(self):
@@ -269,10 +275,10 @@ class WinScreen(object):
                 if event.type == pygame.QUIT:
                     sys.exit()
                 if event.type == pygame.MOUSEBUTTONUP:
-                    #reset game
                     self.done = True
             screen.blit(self.sprite, pygame.Rect(width/2 - 272/2, height/2 - 112/2, 272, 112))
             pygame.display.flip()
+
 
 class SplashScreen(object):
     def __init__(self):
@@ -308,6 +314,10 @@ class Game(object):
             screen.blit(self.bg, (0,0))
             level.play()
 
+
+pygame.init()
+size = width, height = 600, 400
+screen = pygame.display.set_mode(size)
 while 1:
     game = Game()
     game.play()
