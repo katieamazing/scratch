@@ -237,16 +237,27 @@ Thursday:
 * [ ] Demo Day at RC (bring the gaaeemmes)
 
 Friday:
-* [ ] Post up the twitter bot post
-* [ ] SSU
-* [ ] Work on breakout stuff
+* [X] Work on breakout stuff
+* [X] Finish Breakout post
+* [X] SSU, seem to have resolved the viewport issues
 * [ ] Work on GameGif Bot
+  * After much yak-shaving, found I cannot use lua-gd on my OS; going to figure out a workaround or use a virtual linux box
 
 Weekend:
+* [X] Post up the twitter bot post
+* [X] Post up the Breakout post
 * [ ] Digital archaeology weekend:
   * unearth and repost old LD games, Diver, Mousetraps, Viva, Extinction
   * get domain under my purview again
-* [ ] Add monsters to SSU, fix some existing bugs with level xfer viewport
+* [ ] Add monsters to SSU
+* [ ] Work on GameGif Bot
+* [X] Dinner @ David's, with some nice RC people
+
+Monday:
+* [ ] Work on GameGif Bot
+* [ ] Really now, get some art done for SSU
+* [ ] Finish 2x more tracks for SSU
+* [ ] Job apps like whoah
 
 
 * [ ] Figure out how to add a MORE (...) pagination/cut to truncate your blog post directory
