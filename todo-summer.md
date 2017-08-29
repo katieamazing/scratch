@@ -246,7 +246,7 @@ Friday:
 Weekend:
 * [X] Post up the twitter bot post
 * [X] Post up the Breakout post
-* [ ] Digital archaeology weekend:
+* [X] Digital archaeology weekend:
   * unearth and repost old LD games, Diver, Mousetraps, Viva, Extinction
   * get domain under my purview again
 * [ ] Add monsters to SSU
@@ -254,6 +254,11 @@ Weekend:
 * [X] Dinner @ David's, with some nice RC people
 
 Monday:
+* [X] Unsucessfully trying to get senpai to notice me
+* [X] Unsucessfully trying to resolve my github pages/jekyll issue
+* [X] wallowing
+
+Tuesday:
 * [ ] Work on GameGif Bot
 * [ ] Really now, get some art done for SSU
 * [ ] Finish 2x more tracks for SSU
