@@ -14,11 +14,10 @@ Stuff I Want to Do:
 * See RC people at least 2/month
 
 Project-Based tasks (remove as completed):
-* Finish Python SDL
-* Finish Tree-flavored
-* Writeup Breakout blog post(s)
 * Finish/polish KOLC
 * Finish ModTrav
+* Make a LAMP stack website
+* Make a MEAN stack website
 * Come up with a project that could use RabbitMQ/GRPC
 * Make a SWN webapp that tracks user-added planets, supports note taking, NPC and character sheets
 
@@ -259,10 +258,15 @@ Monday:
 * [X] wallowing
 
 Tuesday:
+* [X] Job apps like whoah (Did three, which counts as "like whoah" to me)
+* [X] Unexpected yak shaving - ended up getting github issue fixed, debugged a crippled atom issue, fixed my master boot record (ugh)
+
+Wednesday:
+* [X] Remind RC about Refucktoring tomorrow
+* [ ] Finish job app stuff from yesterday
 * [ ] Work on GameGif Bot
 * [ ] Really now, get some art done for SSU
 * [ ] Finish 2x more tracks for SSU
-* [ ] Job apps like whoah
 
 
 * [ ] Figure out how to add a MORE (...) pagination/cut to truncate your blog post directory
