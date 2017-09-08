@@ -263,10 +263,36 @@ Tuesday:
 
 Wednesday:
 * [X] Remind RC about Refucktoring tomorrow
-* [ ] Finish job app stuff from yesterday
-* [ ] Work on GameGif Bot
-* [ ] Really now, get some art done for SSU
+
+Thursday:
+* [X] Refucktoring at RC
+* [X] Feels checkin :crying:
+
+Friday:
+* [X] Replied to the Philly SaC people about a Refucktoring session
+
+Weekend (long, Labor Day):
+* [X] Hang out with RC peoples
+* [X] SSU, added monster behaviors
+
+Tuesday:
+* [X] Work on GameGif Bot
+
+Wednesday
+* [X] Finish job app stuff from last week
+* [X] Apply to some jobs
+* [X] Really now, get some art done for SSU
+* [X] Book CO tix
+* [X] Work on GameGif Bot
+
+Thursday:
+* [X] Elm meetup
+* [ ] Deliver stickers to RC, hang out at demo night
+
+Friday:
 * [ ] Finish 2x more tracks for SSU
+* [ ] Buy Kenney art for GameGif Bot
+* [ ] Apply to some jobs
 
 
 * [ ] Figure out how to add a MORE (...) pagination/cut to truncate your blog post directory
