@@ -232,14 +232,14 @@ Thursday:
 * [X] SSU
 * [X] Work on breakout stuff
 * [X] Add a bit to TSRewrite bot
-* [X] Work on GameGif Bot a tiny bit
+* [X] Work on GDGB a tiny bit
 * [ ] Demo Day at RC (bring the gaaeemmes)
 
 Friday:
 * [X] Work on breakout stuff
 * [X] Finish Breakout post
 * [X] SSU, seem to have resolved the viewport issues
-* [ ] Work on GameGif Bot
+* [ ] Work on GDGB
   * After much yak-shaving, found I cannot use lua-gd on my OS; going to figure out a workaround or use a virtual linux box
 
 Weekend:
@@ -276,23 +276,46 @@ Weekend (long, Labor Day):
 * [X] SSU, added monster behaviors
 
 Tuesday:
-* [X] Work on GameGif Bot
+* [X] Work on GDGB
 
 Wednesday
 * [X] Finish job app stuff from last week
 * [X] Apply to some jobs
 * [X] Really now, get some art done for SSU
 * [X] Book CO tix
-* [X] Work on GameGif Bot
+* [X] Work on GDGB
 
 Thursday:
 * [X] Elm meetup
+* [X] Corrected a tiny scaling issue with SSU
 * [ ] Deliver stickers to RC, hang out at demo night
 
 Friday:
-* [ ] Finish 2x more tracks for SSU
-* [ ] Buy Kenney art for GameGif Bot
-* [ ] Apply to some jobs
+* [X] Finish 2x more tracks for SSU
+* [X] First phone screen
+
+Weekend:
+* [X] Wrap up SSU (write crossfader, integrate mobs into winemaking, finish readout stuff, fix help bg)
+* [ ] Submit SSU
+  * Update: Completed list, going to do one more week on this before submitting; feature creep is real
+
+Monday:
+* [ ] Buy Kenney art
+* [X] Apply to some jobs (x4! But also applied to an office admin job :grimace:)
+* [ ] Algo
+* [X] Make progess on GDGB
+
+Tuesday:
+* [ ] Algo
+
+Wednesday:
+* [ ] Follow up on some jobs I want
+* [ ] Algo
+* [ ] GDGB (pairing with JN on bugfixing, adding images library)
+* [ ] SSU
+
+Friday:
+* [ ] Google interview prep @ RC
 
 
 * [ ] Figure out how to add a MORE (...) pagination/cut to truncate your blog post directory
