@@ -317,6 +317,29 @@ Wednesday:
 Friday:
 * [ ] Google interview prep @ RC
 
+Weekend:
+* [ ] SSU?
+
+**Not a great week.**
+
+Monday:
+* [X] Phone screen w/ Tictail
+
+Tuesday:
+* [X] Got JN to help with major refactor to SSU; in progress
+* [X] Crying jag/meltdown
+
+Wednesday:
+* [X] In person screen w/ Floored
+* [X] Worked out
+
+Thursday:
+* [ ] RC End of Batch party
+
+Weekend:
+* [ ] Own Your Expertise conference all-day Saturday
+
+
 
 * [ ] Figure out how to add a MORE (...) pagination/cut to truncate your blog post directory
 
