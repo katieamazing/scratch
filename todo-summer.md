@@ -334,7 +334,11 @@ Wednesday:
 * [X] Worked out
 
 Thursday:
-* [ ] RC End of Batch party
+* [X] RC End of Batch party
+
+Friday:
+* [X] Hang out with veronica
+* [X] Scheduled technical with floored (eek)
 
 Weekend:
 * [ ] Own Your Expertise conference all-day Saturday
