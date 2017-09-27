@@ -341,8 +341,22 @@ Friday:
 * [X] Scheduled technical with floored (eek)
 
 Weekend:
-* [ ] Own Your Expertise conference all-day Saturday
+* [X] Own Your Expertise conference all-day Saturday
+* [X] Got GDGB unstuck
 
+Monday:
+* [X] Made lots of progress on GDGB
+* [X] Heard back from many jobs "no" :(
+* [ ] Work out (my buddy was busy)
+
+Tuesday:
+?
+
+Wednesday-Monday:
+* [X] STRANGE LOOP
+
+Tuesday:
+* [ ] Srs technical interview
 
 
 * [ ] Figure out how to add a MORE (...) pagination/cut to truncate your blog post directory
