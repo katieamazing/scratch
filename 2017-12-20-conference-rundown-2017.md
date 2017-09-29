@@ -32,5 +32,6 @@ It was a lot of socializing, which I found exhausting but also really enjoyable 
 This one-day intensive for women and nonbinary people was part-workshop, part extended talk. The material focused on owning power, leveraging experience, and ways to demonstrate and amplify those to the world. I ran into a lot of great women I already knew, and met many new people. It was nice to talk with women from all over the tech world, in varying specialities, and with different experience levels. I was a little disappointed that the impressive mentors for the day didn't have much stage time to talk about themselves and their experiences, and that we didn't do as much coding as I imagined we might do.  
 
 **ElmConf and Strange Loop 2017 - St. Louis, Missouri**
+Heard a good talk about web authentication (It Me) and building for chaos - but I tried to remember, my projects are not Netflix-scale. 
 
 **PyGotham 2017 - New York, New York**

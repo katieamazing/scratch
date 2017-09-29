@@ -21,14 +21,6 @@ Project-Based tasks (remove as completed):
 * Come up with a project that could use RabbitMQ/GRPC
 * Make a SWN webapp that tracks user-added planets, supports note taking, NPC and character sheets
 
-**EVERY DAY DO >=3:**
-* PP: Portfolio Project: Make progress on at least 1 ongoing portfolio project
-* S: Study: Read, work on flashcards, or watch a video for at least 1 chapter/1 hour/etc
-* OC: Online Course: Make progress with an online course
-* I: Interview Prep: Do an interview problem
-* M: meetup/networking/job fair event/going to RC and doing substantive code/job stuffs
-* J: Apply to job, cap at 2 hours
-
 
 Monday 7-3
 * [X] Get Cracking with Heneli
