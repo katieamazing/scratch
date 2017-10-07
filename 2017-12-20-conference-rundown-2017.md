@@ -33,4 +33,10 @@ This one-day intensive for women and nonbinary people was part-workshop, part ex
 
 **ElmConf and Strange Loop 2017 - St. Louis, Missouri**
 
+ElmConf was an interesting experience. It underlined to me that Elm is a young technology and a small community; most of the speakers were maintainers of Elm packages, maybe had a bit less star-power than I have become accustomed to from conferences. But the talks were ??? and I learned ???
+
+The actual StrangeLoop conference was pretty fun. I enjoyed thw NES talk, which was very reminiscent of an extended !!Con talk. I was interested to hear about some newer languages, like Lux, Datafun, and Kotlin.
+
+This was a less social and less fully committed conference on my part. Feeling chapped and buirned out by my job hunt left me feeling overly cautious of myself and more isolated. My companion during the conference had a cold, and sharing a room with him had some effect on my sleep and on my desired bedtime, which also left me with less energy and time to be social. Those factors affected my enjoyment of this conference, I think. St. Louis was a cool place to visit, though, and the venue was wonderful, the party was really fun, and our hotel was super beautiful.
+
 **PyGotham 2017 - New York, New York**
