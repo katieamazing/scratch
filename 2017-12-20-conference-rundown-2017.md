@@ -32,7 +32,8 @@ It was a lot of socializing, which I found exhausting but also really enjoyable 
 This one-day intensive for women and nonbinary people was part-workshop, part extended talk. The material focused on owning power, leveraging experience, and ways to demonstrate and amplify those to the world. I ran into a lot of great women I already knew, and met many new people. It was nice to talk with women from all over the tech world, in varying specialities, and with different experience levels. I was a little disappointed that the impressive mentors for the day didn't have much stage time to talk about themselves and their experiences, and that we didn't do as much coding as I imagined we might do.  
 
 **ElmConf and Strange Loop 2017 - St. Louis, Missouri**
-Heard a good talk about web authentication (It Me) and building for chaos - but I tried to remember, my projects are not Netflix-scale. 
+
+Heard a good talk about web authentication (It Me) and building for chaos - but I tried to remember, my projects are not Netflix-scale.
 
 ElmConf was an interesting experience. It underlined to me that Elm is a young technology and a small community; most of the speakers were maintainers of Elm packages, maybe had a bit less star-power than I have become accustomed to from conferences. But the talks were ??? and I learned ???
 
@@ -41,3 +42,5 @@ The actual StrangeLoop conference was pretty fun. I enjoyed thw NES talk, which 
 This was a less social and less fully committed conference on my part. Feeling chapped and buirned out by my job hunt left me feeling overly cautious of myself and more isolated. My companion during the conference had a cold, and sharing a room with him had some effect on my sleep and on my desired bedtime, which also left me with less energy and time to be social. Those factors affected my enjoyment of this conference, I think. St. Louis was a cool place to visit, though, and the venue was wonderful, the party was really fun, and our hotel was super beautiful.
 
 **PyGotham 2017 - New York, New York**
+
+I made it to the first day of PyGotham this year before being taken down by the flu. It was wodnderful to see lots of my Python friends, hear some cool talks, and make a bit of progress on my job hunting. 
