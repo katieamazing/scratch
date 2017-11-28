@@ -347,13 +347,19 @@ Tuesday:
 Wednesday-Monday:
 * [X] STRANGE LOOP
 
-Tuesday:
-* [ ] Srs technical interview
-
 
 * [ ] Figure out how to add a MORE (...) pagination/cut to truncate your blog post directory
 
 * [ ] Work on a music generator; tweet and make a "databass" joke
+
+Katie Allen is a polyglot programmer who lives in Brooklyn, NY. She has been a cook, a nonprofit admin, a cowgirl, a seamstress, and a software developer. She's excited about test-driven development, new languages, and game jams. When she's not creating strange things with code, she travels the world, enjoys cooking, and always has a half-finished craft project waiting for her. Visit her website, katieamazing.com.
+
+Refucktoring is a zany social coding event. Refucktor provided programs to achieve the worst readability, the most sluggish execution times, and maximum code spaghetti, while still passing the provided test cases.
+
+Refucktoring
+Refucktoring is a zany social coding event. We'll choose short programs complete with test suites to hack on during this exercise in intentional badness. We will work in pairs to refucktor provided programs to achieve the worst readability, the most sluggish execution times, and maximum code spaghetti, while still passing the provided test cases.
+
+There will be programs in multiple languages to ruin, and a variety of testing frameworks. By the end, you'll be delighted to say: "I MADE IT WORSE."
 
 Bitwise Problems:
 hamming distance
