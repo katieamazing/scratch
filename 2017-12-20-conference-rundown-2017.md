@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "2017 Conference Rundown"
-date: TODO
+date: 2017-12-20
 ---
 
 **April
 Codeland 2017 - New York, New York**
 
-Day 1: Diversity, joy, vulnerability, bravery, badasses, memes, bollywood dance party.
 Codeland was a bit of an emotional mix for me: it was inspiring and welcoming, but at the same time I felt out of place. The conference is geared toward Code Newbies, and this was the first moment I realized that I was definitely not a newbie any longer. A highlight was meeting Katrina Owen, who was speaking, and who cowrote a book I had read recently and who is the founder of Exercism.io, a significant part of my coding journey. She is one of my heroes who has directly made programming more accessible to me. In a casual conversation, she graciously encouraged me to consider putting together a conference talk on a project I shared with her. Her encouragement and feeling like less of a newbie really got the gears turning in my head - maybe 2018 is the year of speaking rather than attending conferences.
 
 **May
@@ -15,7 +14,7 @@ Codeland was a bit of an emotional mix for me: it was inspiring and welcoming, b
 
 !!Con was great again this year. The speakers are always diverse and fascinating, and the frenetic fun of 10-minute talks keeps the energy high all day. I really appreciated that there was more unconferencing social time during the conference this year; it let me chat to some nice people, reconnect to old people in my technical network, and meet some new RC people in meat-space. My experience at !!Con was super different than last year - I followed technical aspects of talks better, felt less mind-blown all the time (or at least, the mind-blowing had an "OMG COOL" feel rather than an "OMG I am so lost" feel), and I was more confident introducing myself to strangers as a programmer. It was a good benchmarking experience for me to feel how much I have grown as a programmer and technical person in a year. I'll definitely try to attend in 2018, but tickets are pretty tough to come by, and I felt lucky this year to get one!
 
-I also got to meet Mirabai again this year. [Mirabai](twitter,com/stenoknight) does live captioning for conferences on her stenography machine. She is basically a pinball-wizard crossed with an arch-mage, and is also somehow super nice. Her passion for stenography and the relatively nascent efforts to support it with open source hardware and software were totally infectious. and sooo???? TODO
+I also got to meet Mirabai again this year. [Mirabai](twitter,com/stenoknight) does live captioning for conferences on her stenography machine. She is basically a pinball-wizard crossed with an arch-mage, and is also somehow super nice. Her passion for stenography and the relatively nascent efforts to support it with open source hardware and software were totally infectious. Meeting her again got me excited to try and learn stenography, so I'm currently eagerly awaiting a 3D printed steno board.
 
 **PyCon 2017 - Portland, Oregon**
 
@@ -33,14 +32,14 @@ This one-day intensive for women and nonbinary people was part-workshop, part ex
 
 **ElmConf and Strange Loop 2017 - St. Louis, Missouri**
 
-Heard a good talk about web authentication (It Me) and building for chaos - but I tried to remember, my projects are not Netflix-scale.
+ElmConf was an interesting experience. It underlined to me that Elm is a young technology and a small community; most of the speakers were maintainers of Elm packages, maybe had a bit less star-power than I have become accustomed to from conferences. But the talks were interesting and I learned some new things about union types and integrating Elm with APIs.
 
-ElmConf was an interesting experience. It underlined to me that Elm is a young technology and a small community; most of the speakers were maintainers of Elm packages, maybe had a bit less star-power than I have become accustomed to from conferences. But the talks were ??? and I learned ???
+The actual StrangeLoop conference was pretty fun. I enjoyed the NES talk, which was very reminiscent of an extended !!Con talk. I was interested to hear about some newer languages, like Lux, Datafun, and Kotlin. Heard a good talk about web authentication (It Me) and building for chaos - but I tried to remember, my projects are not Netflix-scale.
 
-The actual StrangeLoop conference was pretty fun. I enjoyed thw NES talk, which was very reminiscent of an extended !!Con talk. I was interested to hear about some newer languages, like Lux, Datafun, and Kotlin.
-
-This was a less social and less fully committed conference on my part. Feeling chapped and buirned out by my job hunt left me feeling overly cautious of myself and more isolated. My companion during the conference had a cold, and sharing a room with him had some effect on my sleep and on my desired bedtime, which also left me with less energy and time to be social. Those factors affected my enjoyment of this conference, I think. St. Louis was a cool place to visit, though, and the venue was wonderful, the party was really fun, and our hotel was super beautiful.
+This was a less social and less fully committed conference on my part. I had some personal stuff going on before and during the trip that left me with less energy and time to be social. Those factors affected my enjoyment of this conference. St. Louis was a cool place to visit, though, and the venue was wonderful, the party was really fun, and our hotel was super beautiful.
 
 **PyGotham 2017 - New York, New York**
 
-I made it to the first day of PyGotham this year before being taken down by the flu. It was wodnderful to see lots of my Python friends, hear some cool talks, and make a bit of progress on my job hunting. 
+I made it to the first day of PyGotham this year before being taken down by the flu. It was wonderful to see lots of my Python friends, hear some cool talks, and make a bit of progress on my job hunting.
+
+I enjoyed hearing about agorithmic transparency and getting exposed to new data science stuff, learning more about the Raft consensus algorithm from a Python friend's first talk (!), and I felt that I got a lot out of the excellent [Sumana's](https://www.harihareswara.net/) talk which took the form of a play and demonstrated various approaches and dialogues one might encounter in a professional setting as a programmer with code to review.
